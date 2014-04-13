@@ -7,3 +7,4 @@ Added Message.
 - item2
 - item3
 
+`NSString *text = @"git revert -m 1 hash"`
